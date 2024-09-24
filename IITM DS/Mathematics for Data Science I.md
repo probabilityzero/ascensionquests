@@ -1,6 +1,6 @@
 This course covers functions (linear, polynomial, exponential, logarithmic) and discrete mathematics (sets, graphs) through numerous examples. Students will learn to represent real-life situations using abstract mathematical structures.
 
-> [! ]
+> 
 > [View Course Videos](https://www.youtube.com/watch?v=F9BZ5JsnjYM&list=PLZ2ps__7DhBZYDZo9A0pZ_i0xhstrk5cR&index=1)  
 > **Course ID**: BSMA1001  
 **Type**: Foundational  
